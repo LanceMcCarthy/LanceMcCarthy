@@ -7,12 +7,13 @@ Twiter
 LinkedIn
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dvlup)
 
+- ⚡ Fun fact: I am also a Microsoft MVP, see [https://bit.ly/LanceMVP](https://bit.ly/LanceMVP)
 - 🔭 I’m currently working on cool .NET MAUI stuff 
 - 🌱 I’m currently learning Spanish
 - 💬 Ask me about anything .NET, Hololens/Mixed Reality, IoT, Azure, MAUI, CI-CD
 - 📫 How to reach me: Twitter is best. If you don't have twitter, shoot me en email... lance at dvlup dot com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am also a Microsoft MVP
+
 
 ## Day Job
 
