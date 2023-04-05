@@ -17,7 +17,7 @@ LinkedIn
 
 ## Day Job
 
-I am the Manager of Technical Support at Progress Software. My team and I provide technical assistance for developers using the Telerik and Kendo UI devtools. I absolutely love writing code and watching it come alive in the user's hands. My passion is most UI, but also the things that powers that UI... from typical backend to  AI-powered fun. 
+I am the Manager of Technical Support at Progress Software. My team and I provide technical assistance for developers using the Telerik and Kendo UI devtools. I absolutely love writing code and watching it come alive in the user's hands. My passion is mostly UI, but also the things that powers that UI... from backend APIs to  AI-powered fun. 
 
 As an example, check out [Flusher](https://github.com/LanceMcCarthy/Flusher), the complete system that flushes the toilet for my cat [using Windows IoT, SignalR, Azure Custom Vision and Xamarin Forms to Flush a Toilet](https://dvlup.com/2020/02/13/using-windows-iot-signalr-azure-custom-vision-and-xamarin-forms-to-flush-a-toilet/).
 
