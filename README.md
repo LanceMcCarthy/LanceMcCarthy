@@ -1,25 +1,20 @@
 ### Hi there 👋, my name is Lance, I'm a professional nerd. 
 
-Blog
-[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dvlup.com)
-Twiter
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/l_anceM)
-LinkedIn
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dvlup)
-
 - ⚡ Fun fact: I am also a Microsoft MVP, see [https://bit.ly/LanceMVP](https://bit.ly/LanceMVP)
-- 🔭 I’m currently working on cool .NET MAUI stuff 
-- 🌱 I’m currently learning Spanish
-- 💬 Ask me about anything .NET, Hololens/Mixed Reality, IoT, Azure, MAUI, CI-CD
-- 📫 How to reach me: Twitter is best. If you don't have twitter, shoot me en email... lance at dvlup dot com
+- 🔭 I’m currently working on cool .NET MAUI, Blazor, and Docker/container stuff
+- 💽 I'm a huge self-hosting nerd, with a 42U rack running dozens of services for me and my fam.
+- 💬 Ask me about anything .NET, Hololens/Mixed Reality, IoT, Azure, MAUI, CI-CD, Docker
+- 📫 How to reach me:
+  - [![Follow @lance.boston](https://img.shields.io/badge/preferred-@lance.boston-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/lance.boston)
+  - [![Blog](https://img.shields.io/badge/dvlup-blue?logo=wordpress)](https://dvlup.com)
+  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dvlup)
 - 😄 Pronouns: Him/He
-
 
 ## Day Job
 
-I am the Manager of Technical Support at Progress Software. My team and I provide technical assistance for developers using the Telerik and Kendo UI devtools. I absolutely love writing code and watching it come alive in the user's hands. My passion is mostly UI, but also the things that powers that UI... from backend APIs to  AI-powered fun. 
+I am the Senior Manager of Technical Support at Progress Software. I am responsible for operations for both the DevTools and Sitefinty teams for the Americas. As an example, my team and I provide technical assistance for developers using Telerik, Kendo UI, Test Studio, and more. Check out some of our demos at [https://www.telerik.com/support/demos](https://www.telerik.com/support/demos).
 
-As an example, check out [Flusher](https://github.com/LanceMcCarthy/Flusher), the complete system that flushes the toilet for my cat [using Windows IoT, SignalR, Azure Custom Vision and Xamarin Forms to Flush a Toilet](https://dvlup.com/2020/02/13/using-windows-iot-signalr-azure-custom-vision-and-xamarin-forms-to-flush-a-toilet/).
+I absolutely love writing code and watching it come alive in the user's hands. My passion is mostly UI, but also the things that powers that UI... from backend APIs to AI-powered fun.  As one example, check out [Flusher](https://github.com/LanceMcCarthy/Flusher), the complete system that flushes the toilet for my cat [using IoT, SignalR, Azure Custom Vision AI and a mobile+web app to Flush a Toilet](https://dvlup.com/2020/02/13/using-windows-iot-signalr-azure-custom-vision-and-xamarin-forms-to-flush-a-toilet/).
 
 ## GitHub Stats
 
