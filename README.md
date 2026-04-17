@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Lance, professional nerd. 
 
 - ⚡ Fun fact: I am also a Microsoft MVP, see [https://bit.ly/LanceMVP](https://bit.ly/LanceMVP)
-- 🔭 I’m currently working on cool .NET MAUI, Blazor, and Docker/container stuff.
+- 💻 Senior Manager Technical Support | Americas - Responsible for [DevTools](https://www.telerik.com) and [Sitefinity](https://www.progress.com/sitefinity-cms)
+- 🔭 I’m currently working on AI agents, MCPs and Skills, alongside .NET MAUI, Blazor, and Docker/container stuff.
 - 💽 I'm a huge self-hosting nerd, with a 42U rack running dozens of services for myself, friends, and family.
 - 💬 Ask me about anything dotnet, IoT, Azure, MAUI, CI-CD, Docker, Self-Hosting, and solar power systems.
 - 📫 How to reach me:
